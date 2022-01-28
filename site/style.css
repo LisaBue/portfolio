@@ -10,8 +10,9 @@ nav {
 	font-size: 10px;
 	font-weight: bold;
 	font-family: verdana;
-	text-align: center;
-		argin-bottom: 10px;
+	text-align: right;
+	margin-bottom: 10px;
+	margin-left: -10%;
 }
 
 .sticky {
@@ -62,9 +63,9 @@ a 		{
 
 a.navig {
 		color: hotpink;
-		font-size:  30px;
-		font-family: courier new;
-		width:  200px;
+		font-size:  20px;
+		font-family: malgun gothic;
+		background-color: black;
 }
 
 .highlight {
@@ -90,12 +91,12 @@ p 	{
 
 p.parallax {
   			background-image: url("milky-way-gd7a320516_1920.jpg");
-  			min-height: 500px;
+  			min-height: 1000px;
   			background-attachment: fixed;
  			background-position: center;
   			background-repeat: no-repeat;
  			background-size: cover;
- 			font-size: 40px;
+ 			font-size: 20px;
  			color: white;
  			font-family: courier new;
  }
@@ -108,7 +109,6 @@ header a {
 a:link, a:visited {
 				text-decoration:  none;
 				background-color: black;
-				border:  3px solid deeppink;
 				color: deeppink;
 				display: inline-block;
 				text-align: center;
@@ -119,5 +119,9 @@ a:hover, a:active {
 					background-color: transparent;
 					color: black;
 
-
 }
+
+
+
+
+
